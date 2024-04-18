@@ -3,16 +3,16 @@ Código desenvolvido como um desafio em sala de aula.
 
     Desafio: Array List
 
-## Criar um sistema que usa uma lista para simular um arquivo em disco.
+# Criar um sistema que usa uma lista para simular um arquivo em disco.
 
-# Os dados devem ser o seguinte:
+## Os dados devem ser o seguinte:
 o Nome
 o Endereço
 o Cpf
 o Telefone
 o email
 
-# O programa deve ter o seguinte menu:
+## O programa deve ter o seguinte menu:
 1. Adicionar
 2. Excluir
 3. Alterar
@@ -21,6 +21,7 @@ o email
 6. Ordenar
 7. Sair
 
+## Requisitos funcionais:
 - A chave de pesquisa é o CPF e devemos prevenir o cadastro de dois CPFs iguais.
 - Ao selecionar Adicionar, o programa deve pedir o CPF, verificar se ele já está cadastrado e senão pedir os outros dados e gravar. Caso contrário emitir a mensagem CPF já cadastrado.
 - Ao selecionar Excluir, pedir o CPF e excluir se ele existir, caso contrário simplesmente ignore sem mensagem.
