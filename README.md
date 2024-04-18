@@ -1,7 +1,7 @@
 ## ProjetoListas
 Código desenvolvido como um desafio em sala de aula.
 
-    # Desafio: Array List
+    Desafio: Array List
 
 ## Criar um sistema que usa uma lista para simular um arquivo em disco.
 
