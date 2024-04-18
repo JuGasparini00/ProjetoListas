@@ -7,9 +7,13 @@ Código desenvolvido como um desafio em sala de aula.
 
 ## Os dados devem ser o seguinte:
 o Nome
+
 o Endereço
+
 o Cpf
+
 o Telefone
+
 o email
 
 ## O programa deve ter o seguinte menu:
